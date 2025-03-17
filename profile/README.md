@@ -1,11 +1,10 @@
 # EmeltDigKult2025
 
-C#-ban írt feladatok, SQL segédletek és egyéb anyagok találhatók itt. A tartalom privát, kizárólag a meghívott tagok számára érhető el.
+C#-ban írt feladatok, SQL segédletek és egyéb anyagok találhatók itt. 
 
 ---
 
-## Áttekintés  
-- **Hozzáférés**: Privát repository-k, csak tagok számára.  
+## Áttekintés   
 - **Használat**: Repository-k böngészése, fájlok letöltése vagy feltöltése.  
 - **Tartalom**: A feladatok külön visual studio projektekben vannak a feladat nevével ellátva
 
